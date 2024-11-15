@@ -29,6 +29,17 @@ description: Learn how to set up Call queues in Microsoft Teams. Call queues pro
 ---
 
 # Create a Call queue in Microsoft Teams
+> [!IMPORTANT]
+> Voice enabled channels for Teams Phone will be deprecated June 30, 2025, after which users: 
+>
+> - Can continue to opt in and out of call queues through call settings
+> - Can view queue members through channel membership.
+> - Admins can continue to link a call queue to a channel within Teams admin center.
+> - Will no longer be able to view the opt-in status of other queue members without access to Queues app for Microsoft Teams.​ 
+> 
+> While users and admins will experience no changes to voice enabled channels experience through June 30, 2025, we encourage organizations to plan for these changes ahead of June 30,2025 to minimize impact to operations and workflows.
+>
+> For more information, please visit [ADD NEW MS LEARN PAGE HERE FOR VOICE DEPRECATED CHANNELS]
 
 Call queues route callers to people in your organization who can help with a particular issue or question. Calls are distributed one at a time to the people in the queue, who are known as *agents*.
 
