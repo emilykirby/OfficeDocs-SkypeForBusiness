@@ -192,6 +192,17 @@ Admins can place channel-only members from the host organization who are not a p
 All the actions performed for [existing audit events](/microsoft-365/compliance/detailed-properties-in-the-office-365-audit-log) are audited in shared channels.
 
 ## Supported apps in shared channels
+> [!IMPORTANT]
+> Voice enabled channels for Teams Phone will be deprecated June 30, 2025, after which users: 
+>
+> - Can continue to opt in and out of call queues through call settings
+> - Can view queue members through channel membership.
+> - Admins can continue to link a call queue to a channel within Teams admin center.
+> - Will no longer be able to view the opt-in status of other queue members without access to Queues app for Microsoft Teams.​ 
+> 
+> While users and admins will experience no changes to voice enabled channels experience through June 30, 2025, we encourage organizations to plan for these changes ahead of June 30,2025 to minimize impact to operations and workflows.
+>
+> For more information, please visit [ADD NEW MS LEARN PAGE HERE FOR VOICE DEPRECATED CHANNELS]
 
 For information about how to prepare your app for shared channels, see [Microsoft Teams Connect shared channels](/microsoftteams/platform/concepts/build-and-test/shared-channels).
 
