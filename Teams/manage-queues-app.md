@@ -40,7 +40,7 @@ Queues app is designed to enhance call queue handling capabilities within Teams 
 
 Keep the following in mind:
 
-- Queues app is currently only supported on Teams desktop and Mac clients, not on web, mobile, or Virtualized Desktop Infrastructure (VDI) clients.
+- Queues app is currently supported on Teams desktop and Mac clients, as well as and Virtualized Desktop Infrastructure (VDI) clients. Queues app is not yet supported on web or mobile.
 - Queues app is available in all regions where Teams Phone is supported. For more information, see [Country/region availability for Teams Phone](calling-plan-overview.md).
 - Queues app is currently only available in public clouds, including GCC.
 - For the best experience in Queues app, we advise having no more than 100 call queues assigned per user.
